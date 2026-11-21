@@ -2,7 +2,7 @@
 
 Lô được kiểm (học viên): Nguyễn Minh Nam Hải  - 2A202603076      Người kiểm (học viên): Kiều Quang Trường - 2A202603205  
 Ngày: 20/11/2026                          Phiên bản guideline: Road v1.0  
-File được kiểm (tên + `revision` trong manifest): kieuquangtruong-front.zip, kieuquangtruong-fisheye.zip · revision 2  
+File được kiểm (tên + `revision` trong manifest): nguyenminhnamhai-front.zip, nguyenminhnamhai-fisheye.zip · revision 2  
 Số ảnh kiểm: 6 (+ 0 ảnh thêm, ghi riêng)   Số nhãn đã kiểm (shape + tag): 65  
 ## Tổng hợp theo mã
 | Mã | Loại lỗi | Số mục kiểm | Số lỗi | Mức |
