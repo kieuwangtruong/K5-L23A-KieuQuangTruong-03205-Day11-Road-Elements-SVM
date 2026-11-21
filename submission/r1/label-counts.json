@@ -1,0 +1,42 @@
+﻿[
+    {
+        "task":  "front",
+        "images":  12,
+        "lane":  38,
+        "road_curb":  15,
+        "crosswalk":  8,
+        "drivable":  30,
+        "traffic_light":  24,
+        "traffic_sign":  16
+    },
+    {
+        "task":  "front-extra",
+        "images":  4,
+        "lane":  11,
+        "road_curb":  6,
+        "crosswalk":  6,
+        "drivable":  10,
+        "traffic_light":  13,
+        "traffic_sign":  12
+    },
+    {
+        "task":  "fisheye",
+        "images":  8,
+        "lane":  12,
+        "road_curb":  16,
+        "crosswalk":  10,
+        "drivable":  0,
+        "traffic_light":  5,
+        "traffic_sign":  6
+    },
+    {
+        "task":  "fisheye-extra",
+        "images":  4,
+        "lane":  0,
+        "road_curb":  3,
+        "crosswalk":  4,
+        "drivable":  0,
+        "traffic_light":  0,
+        "traffic_sign":  0
+    }
+]

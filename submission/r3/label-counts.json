@@ -1,0 +1,32 @@
+﻿[
+    {
+        "task":  "front",
+        "images":  12,
+        "lane":  40,
+        "road_curb":  13,
+        "crosswalk":  8,
+        "drivable":  30,
+        "traffic_light":  24,
+        "traffic_sign":  16
+    },
+    {
+        "task":  "front-extra",
+        "images":  4,
+        "lane":  13,
+        "road_curb":  5,
+        "crosswalk":  6,
+        "drivable":  10,
+        "traffic_light":  13,
+        "traffic_sign":  12
+    },
+    {
+        "task":  "fisheye-combined",
+        "images":  12,
+        "lane":  13,
+        "road_curb":  19,
+        "crosswalk":  14,
+        "drivable":  8,
+        "traffic_light":  5,
+        "traffic_sign":  6
+    }
+]

@@ -1,0 +1,22 @@
+﻿BỘ BÀN GIAO HIỆN TẠI — KIỀU QUANG TRƯỜNG — REVISION 4
+
+Bốn file đã chuẩn bị:
+1. kieuquangtruong-front.zip (16 ảnh; không kèm ảnh dữ liệu)
+2. kieuquangtruong-fisheye.zip (12 ảnh; không kèm ảnh dữ liệu)
+3. kieuquangtruong-manifest.json (SHA-256 đã kiểm khớp hai ZIP)
+4. kieuquangtruong-report.md (đã điền số liệu thật: 266 shape, 112 tag)
+
+File thứ năm chưa có dữ liệu QC thực tế:
+- kieuquangtruong-qc1-for-chuaxacnhan.md là MẪU CHỜ ĐIỀN.
+- Điền tên bạn được ghép, kết quả kiểm 6 ảnh, đủ 12 mã QC và quyết định;
+  đổi tên chuaxacnhan thành tên bạn được kiểm. Không nộp mẫu trống như phiếu hoàn tất.
+
+Bổ sung vào báo cáo:
+- 4 ảnh minh chứng theo mục 6; phiên bản CVAT và trạng thái completed.
+- Người kiểm bài: Nguyễn Minh Nam Hải — 2A202603076; còn cần kết quả QC nhận được.
+- Đã có xác nhận coach cho ngoại lệ A05 theo thông tin học viên cung cấp.
+
+Không nộp toàn bộ thư mục: r1/r2/r3 là lịch sử; các JSON kiểm kê và log
+là tài liệu hỗ trợ. Nộp đúng 5 file theo yêu cầu coach, kèm minh chứng
+báo cáo theo hướng dẫn kênh nộp. Bộ hiện tại chưa có kết luận Release.
+

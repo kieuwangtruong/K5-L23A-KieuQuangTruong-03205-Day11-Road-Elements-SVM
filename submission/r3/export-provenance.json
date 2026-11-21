@@ -1,0 +1,57 @@
+﻿[
+    {
+        "file":  "front_12 (1).zip",
+        "group":  "front",
+        "job":  "20",
+        "exported":  "2026-11-21 04:05:01.470062+00:00",
+        "sha256":  "C0B3F8802928A0E15EE03B1D65584C299A1B694CC1D98D0A68C9C48D7FF15148",
+        "frames":  [
+                       "A01_bc5fadac-fa6dd225.jpg",
+                       "A02_b3c26aff-63a0d7d6.jpg",
+                       "A03_b1c66a42-6f7d68ca.jpg",
+                       "A04_b7a8e795-0ff55db2.jpg",
+                       "A05_b2576c8c-2de20b8a.jpg",
+                       "A06_b8c66e31-37045eec.jpg",
+                       "A07_b41ace08-c8468690.jpg",
+                       "A08_c0deebc1-16cfa791.jpg",
+                       "A09_c7e6d5d1-c8af9fe3.jpg",
+                       "A10_b6ff1331-f6d3fba8.jpg",
+                       "A11_c1f35f18-b529c043.jpg",
+                       "A12_c0f978fa-9b4e623f.jpg"
+                   ]
+    },
+    {
+        "file":  "front_8.zip",
+        "group":  "front-extra",
+        "job":  "22",
+        "exported":  "2026-11-21 04:08:57.181420+00:00",
+        "sha256":  "055337A911CB166A84645E245EA3DA4B3E48E9071F45D64AF8E4FE355DE171CE",
+        "frames":  [
+                       "A13_c179d309-b446fda3.jpg",
+                       "A14_ca04d99f-c1282bb7.jpg",
+                       "A15_be85bd88-d849c034.jpg",
+                       "A16_b6f77fda-33d2260f.jpg"
+                   ]
+    },
+    {
+        "file":  "output/previous-fisheye-r2.zip",
+        "group":  "fisheye-combined",
+        "job":  null,
+        "exported":  null,
+        "sha256":  "F33EBFF04B037804E4C304E2398B6BB4AFE1BF976ED18B29E7A1F271B435F26E",
+        "frames":  [
+                       "B01_02688_FV.png",
+                       "B02_03177_FV.png",
+                       "B03_04267_RV.png",
+                       "B04_05535_RV.png",
+                       "B05_05780_MVL.png",
+                       "B06_04068_MVL.png",
+                       "B07_01216_MVR.png",
+                       "B08_05783_MVR.png",
+                       "B09_02686_FV.png",
+                       "B10_01153_MVL.png",
+                       "B11_07282_RV.png",
+                       "B12_05885_MVR.png"
+                   ]
+    }
+]

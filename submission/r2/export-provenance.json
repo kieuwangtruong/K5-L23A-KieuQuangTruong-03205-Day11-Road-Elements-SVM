@@ -1,0 +1,66 @@
+﻿[
+    {
+        "file":  "front_12.zip",
+        "group":  "front",
+        "job":  "20",
+        "exported":  "2026-11-21 03:26:41.706708+00:00",
+        "sha256":  "6A10FBEF783CC678A3B78B917E3D3382D65574FFADA360E2C4BC5762FA62A900",
+        "frames":  [
+                       "A01_bc5fadac-fa6dd225.jpg",
+                       "A02_b3c26aff-63a0d7d6.jpg",
+                       "A03_b1c66a42-6f7d68ca.jpg",
+                       "A04_b7a8e795-0ff55db2.jpg",
+                       "A05_b2576c8c-2de20b8a.jpg",
+                       "A06_b8c66e31-37045eec.jpg",
+                       "A07_b41ace08-c8468690.jpg",
+                       "A08_c0deebc1-16cfa791.jpg",
+                       "A09_c7e6d5d1-c8af9fe3.jpg",
+                       "A10_b6ff1331-f6d3fba8.jpg",
+                       "A11_c1f35f18-b529c043.jpg",
+                       "A12_c0f978fa-9b4e623f.jpg"
+                   ]
+    },
+    {
+        "file":  "fisheye_4.zip",
+        "group":  "front-extra",
+        "job":  "22",
+        "exported":  "2026-11-21 03:27:12.907933+00:00",
+        "sha256":  "1E1C42B811F2CD0DB1A5F5AA0BC31B7430F179DE722FFF9FC81B4B4E53953627",
+        "frames":  [
+                       "A13_c179d309-b446fda3.jpg",
+                       "A14_ca04d99f-c1282bb7.jpg",
+                       "A15_be85bd88-d849c034.jpg",
+                       "A16_b6f77fda-33d2260f.jpg"
+                   ]
+    },
+    {
+        "file":  "front_8.zip",
+        "group":  "fisheye",
+        "job":  "21",
+        "exported":  "2026-11-21 03:56:25.652711+00:00",
+        "sha256":  "9DC4CFEF6EF7016F843D363CDF3313094951AD586243975FD64545E7B0B8D0E5",
+        "frames":  [
+                       "B01_02688_FV.png",
+                       "B02_03177_FV.png",
+                       "B03_04267_RV.png",
+                       "B04_05535_RV.png",
+                       "B05_05780_MVL.png",
+                       "B06_04068_MVL.png",
+                       "B07_01216_MVR.png",
+                       "B08_05783_MVR.png"
+                   ]
+    },
+    {
+        "file":  "fisheye_extra.zip",
+        "group":  "fisheye-extra",
+        "job":  "23",
+        "exported":  "2026-11-21 03:56:42.270388+00:00",
+        "sha256":  "87E6A229F6C401E276C81895B9D25BA48DA3095D673E59B23C135A60B90D7D41",
+        "frames":  [
+                       "B09_02686_FV.png",
+                       "B10_01153_MVL.png",
+                       "B11_07282_RV.png",
+                       "B12_05885_MVR.png"
+                   ]
+    }
+]

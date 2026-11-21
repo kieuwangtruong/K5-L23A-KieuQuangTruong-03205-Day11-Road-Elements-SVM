@@ -1,0 +1,107 @@
+﻿[
+    {
+        "image":  "A08_c0deebc1-16cfa791.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "644.77,308.65;654.80,321.70",
+        "after":  "654.80,321.70;644.77,308.65"
+    },
+    {
+        "image":  "A08_c0deebc1-16cfa791.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "620.75,281.39;627.20,290.10",
+        "after":  "627.20,290.10;620.75,281.39"
+    },
+    {
+        "image":  "A16_b6f77fda-33d2260f.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "474.70,375.05;462.09,395.13;406.35,476.09;363.92,537.31",
+        "after":  "363.92,537.31;406.35,476.09;462.09,395.13;474.70,375.05"
+    },
+    {
+        "image":  "B02_03177_FV.png",
+        "label":  "traffic_light",
+        "attribute":  "edge_zone",
+        "before":  "false",
+        "after":  "true"
+    },
+    {
+        "image":  "B04_05535_RV.png",
+        "label":  "traffic_sign",
+        "attribute":  "edge_zone",
+        "before":  "false",
+        "after":  "true"
+    },
+    {
+        "image":  "B05_05780_MVL.png",
+        "label":  "lane",
+        "attribute":  "position",
+        "before":  "L1",
+        "after":  "other"
+    },
+    {
+        "image":  "B05_05780_MVL.png",
+        "label":  "traffic_sign",
+        "attribute":  "edge_zone",
+        "before":  "false",
+        "after":  "true"
+    },
+    {
+        "image":  "B05_05780_MVL.png",
+        "label":  "traffic_sign",
+        "attribute":  "edge_zone",
+        "before":  "false",
+        "after":  "true"
+    },
+    {
+        "image":  "B05_05780_MVL.png",
+        "label":  "traffic_sign",
+        "attribute":  "edge_zone",
+        "before":  "false",
+        "after":  "true"
+    },
+    {
+        "image":  "B06_04068_MVL.png",
+        "label":  "lane",
+        "attribute":  "position",
+        "before":  "R1",
+        "after":  "other"
+    },
+    {
+        "image":  "B10_01153_MVL.png",
+        "label":  "camera",
+        "attribute":  "value",
+        "before":  "fisheye_right",
+        "after":  "fisheye_left"
+    },
+    {
+        "image":  "B12_05885_MVR.png",
+        "label":  "camera",
+        "attribute":  "value",
+        "before":  "",
+        "after":  "fisheye_right"
+    },
+    {
+        "image":  "B12_05885_MVR.png",
+        "label":  "timeofday",
+        "attribute":  "value",
+        "before":  "",
+        "after":  "day"
+    },
+    {
+        "image":  "B12_05885_MVR.png",
+        "label":  "weather",
+        "attribute":  "value",
+        "before":  "",
+        "after":  "overcast"
+    },
+    {
+        "image":  "B12_05885_MVR.png",
+        "label":  "source",
+        "attribute":  "value",
+        "before":  "",
+        "after":  "real"
+    }
+]

@@ -1,0 +1,23 @@
+﻿[
+    {
+        "image":  "A08_c0deebc1-16cfa791.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "644.77,308.65;654.80,321.70",
+        "after":  "654.80,321.70;644.77,308.65"
+    },
+    {
+        "image":  "A08_c0deebc1-16cfa791.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "620.75,281.39;627.20,290.10",
+        "after":  "627.20,290.10;620.75,281.39"
+    },
+    {
+        "image":  "A16_b6f77fda-33d2260f.jpg",
+        "label":  "lane",
+        "attribute":  "point_order",
+        "before":  "474.70,375.05;462.09,395.13;406.35,476.09;363.92,537.31",
+        "after":  "363.92,537.31;406.35,476.09;462.09,395.13;474.70,375.05"
+    }
+]
